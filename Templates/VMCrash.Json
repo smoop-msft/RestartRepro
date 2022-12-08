@@ -2,11 +2,10 @@
 	"$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
 	"contentVersion": "1.0.0.0",
 	"metadata": {
-		"description": "Your VM has experienced a blue screen crash and is generating a memory dump.",
+		"description": "Your VM has crashed generating a memory dump",
 		"author": "Satish Mooppanar",
 		"GitHub": "https://github.com/smoop-msft/RestartRepro",
-		"Enablement": "https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/troubleshoot-common-blue-screen-error",
-		"deploymentLink": "https://labbox.azurewebsites.net/api/Labbox?url=https://raw.githubusercontent.com/rjmccallumbigl/Azure-ARM-Templates/main/crash.json"
+		"deploymentLink": "https://labbox.azurewebsites.net/api/Labbox?url=https://raw.githubusercontent.com/smoop-msft/RestartRepro/VMcrash.json"
 	},
 	"parameters": {
 		"adminUsername": {
