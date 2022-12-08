@@ -5,7 +5,7 @@
 		"description": "Your VM has crashed generating a memory dump",
 		"author": "Satish Mooppanar",
 		"GitHub": "https://github.com/smoop-msft/RestartRepro",
-		"deploymentLink": "https://labbox.azurewebsites.net/api/Labbox?url=https://raw.githubusercontent.com/smoop-msft/RestartRepro/VMcrash.json"
+		"deploymentLink": "https://labbox.azurewebsites.net/api/Labbox?url=https://raw.githubusercontent.com/smoop-msft/RestartRepro/main/Templates/VMCrash.Json"
 	},
 	"parameters": {
 		"adminUsername": {
