@@ -230,7 +230,7 @@
 						"autoUpgradeMinorVersion": true,
 						"settings": {
 							"fileUris": [
-								"https://raw.githubusercontent.com/smoop-msft/RestartRepro/main/Scripts/crash.bat"
+								"https://raw.githubusercontent.com/smoop-msft/RestartRepro/main/Scripts/Crash.bat"
 							]
 						},
 						"protectedSettings": {
